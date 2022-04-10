@@ -22,9 +22,9 @@ export default function Home() {
       etag: "86bee42b3726ca96cd64f9dfe6181a4f",
       placeholder: false,
       url:
-        "http://res.cloudinary.com/",
+        "http://res.cloudinary.com/potential17/image/upload/v1603137359/dxepgviniu101ezczzwh.jpg",
       secure_url:
-        "https://res.cloudinary.com/",
+        "https://res.cloudinary.com/potentail17/image/upload/v1603137359/dxepgviniu101ezczzwh.jpg",
       access_mode: "public",
       original_filename: "",
     },
